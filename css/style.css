@@ -1,0 +1,277 @@
+.nen-1{
+	background-image: url(../img/22.jpg);
+	background-size: cover;
+}
+
+.content{
+	width: 60%;
+	margin: auto;
+	padding-top: 20%;
+	padding-bottom: 5%;
+	text-align: center;
+}
+
+.icon1{
+	padding-bottom: 10%;
+}
+
+.icon2{
+	padding-top: 10%;
+}
+
+.content h1{
+	font-size: 50px;
+	font-family: 'Lato', sans-serif;
+	color: white;
+	letter-spacing: 7px;
+}
+
+.content p{
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+	color: white;
+	letter-spacing: 2px;
+	padding-top: 2%;
+}
+
+.aboutus{
+	padding-top: 8%;
+	padding-bottom: 8%;
+}
+
+.about-us{
+	width: 60%;
+	margin: auto;
+}
+
+.aboutfiel{
+	border: 1.5px solid;
+}
+
+.aboutlegend{
+	width: 40%;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+
+.abouttext{
+	width: 80%;
+	padding: 5%;
+	margin: auto;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+
+.sirvices{
+	background-image: url(../img/1111.jpg);
+	background-size: cover;
+	padding-top: 8%;
+	padding-bottom: 8%;
+}
+
+.sirvices-1{
+	width: 60%;
+	margin: auto;
+}
+
+.sirvicesfiel{
+	width: 57%;
+	border: 1.5px solid;
+	color: white;
+	margin: auto;
+}
+
+.sirviceslegend{
+	width: 40%;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+
+.sirvicestext{
+	width: 80%;
+	padding: 5%;
+	margin: auto;
+	font-family: 'Lato', sans-serif;
+	text-align: center;	
+}
+
+.whatwedo{
+	padding-top: 8%;
+	padding-bottom: 8%;
+}
+
+.whatwe{
+	width: 60%;
+	margin: auto;
+}
+
+.whatfiel{
+	border: 1.5px solid;
+}
+
+.whatlegend{
+	text-align: center;
+	width: 40%;
+}
+
+.what1{
+	padding-top: 8%;
+	padding-bottom: 8%;
+}
+
+.whattext{
+	text-align:center;
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	color: black;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.whattext h1{
+	letter-spacing: 2px;
+	font-size: 25px;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.ourwork{
+	padding-bottom: 5%;
+	padding-top: 5%;
+}
+
+.ourwork1{
+	width: 100%;
+	margin: auto;
+}
+
+.topworks{
+	background-image: url(../img/1a.jpg);
+	background-size: cover;
+	margin-right: 0.5%!important;
+	margin: auto;
+	padding-top: 10%;
+	padding-bottom: 1%;
+    margin-bottom: 0.5%;
+}
+
+.joint{
+	background-image: url(../img/1b.jpg);
+	background-size: cover;
+	margin-left: 0!important;
+	margin-right: 0!important;
+	margin: auto;
+	padding-top: 10%;
+	padding-bottom: 0.7%;
+    margin-bottom: 0.5%;
+}
+
+.market{
+	background-image: url(../img/1c.jpg);
+	background-size: cover;
+	margin-left: 0.5%!important;
+	margin: auto;
+	padding-top: 10%;
+	padding-bottom: 1%;
+    margin-bottom: 0.5%;
+}
+
+.worktop{
+	background-image: url(../img/1f.jpg);
+	background-size: cover;
+	margin-right: 0.5%!important;
+	margin: auto;
+	padding-top: 10%;
+	padding-bottom: 1%;
+    margin-bottom: 0.5%;
+}
+
+.lable{
+	background-image: url(../img/1d.jpg);
+	background-size: cover;
+	margin-left: 0!important;
+	margin-right: 0!important;
+	margin: auto;
+	padding-top: 10%;
+	padding-bottom: 0.7%;
+    margin-bottom: 0.5%;
+}
+
+.kyiv{
+	background-image: url(../img/1h.jpg);
+	background-size: cover;
+	margin-left: 0.5%!important;
+	margin-top: 0%!important;
+	margin: auto;
+	padding-top: 10%;
+	padding-bottom: 1%;
+    margin-bottom: 0.5%;
+}
+
+.ourwork1 h1{
+	font-size: 35px;
+	font-family: 'Lato', sans-serif;
+	color: white;
+	letter-spacing: 2px;
+	padding-top: 2%;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.contactus{
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+.contact{
+	width: 60%;
+	margin: auto;
+}
+
+.contactfiel{
+	border: 1.5px solid;
+}
+
+.contactlegend{
+	text-align: center;
+	width: 40%;
+
+}
+
+.contactustext{
+	text-align: center;
+	padding-bottom: 4%;
+	padding-top: 3%;
+}
+
+.contactdark{
+	width: 40%;
+	margin: auto;
+	text-transform: uppercase;
+	padding-bottom: 1%;
+	padding-top: 1%;
+}
+
+.contactustext p{
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+}
+
+.footer{
+	padding-bottom: 5%;
+	padding-top: 2%;
+}
+
+.allright{
+	width: 25%;
+    margin: auto;
+    text-align: center;
+}
+
+.img1{
+	float: left;
+}
